@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ShoopingWebApplication.Models.Product>
+
+@{
+    ViewData["Title"] = "Product Index";
+    Layout = "_Layout"; // Assuming you have a layout file
+}
+
+<div class="container mt-5">
+    <h1 class="mb-4">Product List</h1>
+
+    <div class="text-end mb-3">
+        <a asp-action="Index" asp-route-sortOrder="asc">Lowest Price</a> |
+        <a asp-action="Index" asp-route-sortOrder="desc">Highest Price</a>
+    </div>
+
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="Product Image">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Name</h5>
+                        <p class="card-text">@product.Description</p>
+                        <p class="card-text">Price: $@product.Price</p>
+                        <p class="card-text">Stock Quantity: @product.StockQuantity</p>
+                        <a asp-action="Details" asp-route-id="@product.ProductId" class="btn btn-primary">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

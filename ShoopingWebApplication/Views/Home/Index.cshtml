@@ -1,0 +1,36 @@
+﻿@model List<Category>
+
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout"; 
+}
+
+<div class="jumbotron">
+    <h1 class="display-4">Welcome to ShoeHub</h1>
+    <p class="lead">Explore our amazing products and enjoy great deals!</p>
+
+    <!-- Search Form -->
+    <form asp-action="Search" asp-controller="Product" method="get">
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Search Products" name="searchString">
+            <button class="btn btn-outline-secondary" type="submit">Search</button>
+        </div>
+    </form>
+</div>
+<h3>BROWSE BY CATEGORIES</h3>
+<div class="row">
+    <!-- Display Categories -->
+    @foreach (var category in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <img src="@category.ImageUrl" class="card-img-top" alt="@category.Name"> <!-- Display category image -->
+                <div class="card-body">
+                    <h2 class="card-title">@category.Name</h2>
+                    <p class="card-text">Description or featured products for @category.Name</p>
+                    <a href="@Url.Action("Products", "Product", new { categoryId = category.CategoryId })" class="btn btn-sm btn-outline-secondary">View Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

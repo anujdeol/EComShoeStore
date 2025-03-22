@@ -1,0 +1,33 @@
+﻿@model List<Order> 
+@{
+    ViewData["Title"] = "Order History";
+    Layout = "_Layout"; 
+}
+
+<div class="container mt-5">
+    <h1>Order History</h1>
+    <div class="row">
+        @if (Model.Count == 0)
+        {
+            <p>No orders found.</p>
+        }
+        else
+        {
+            foreach (var order in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card @(order.OrderStatus == "Pending" ? "border-danger" : "")">
+                        <div class="card-body">
+                            <h5 class="card-title">Order ID: @order.OrderId</h5>
+                            <p class="card-text">Order Date: @order.OrderDate.ToShortDateString()</p>
+                            <p class="card-text">Total Amount: @order.TotalAmount.ToString("C", System.Globalization.CultureInfo.CreateSpecificCulture("en-US"))</p>
+                            <p class="card-text">Order Status: <span style="color: @(order.OrderStatus == "Pending" ? "red" : "inherit")">@order.OrderStatus</span></p>
+
+                            <!-- Additional order details can be displayed here -->
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>

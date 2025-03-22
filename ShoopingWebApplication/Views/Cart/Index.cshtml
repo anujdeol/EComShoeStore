@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ShoopingWebApplication.Models.CartItem>
+
+<div class="container mt-5">
+    <h1 class="mb-4">Shopping Cart</h1>
+
+    @if (!Model.Any())
+    {
+        <p class="text-center">Your shopping cart is empty.</p>
+    }
+    else
+    {
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-body">
+                        @foreach (var item in Model)
+                        {
+                            <div class="row mb-3">
+                                <div class="col-md-4">
+                                    <img src="@item.Product.ImageUrl" class="img-fluid" alt="Product Image">
+                                </div>
+                                <div class="col-md-6">
+                                    <h5 class="card-title">@item.Product.Name</h5>
+                                    <p class="card-text">Quantity: @item.Quantity</p>
+                                    <p class="card-text">Price: $@item.Product.Price</p>
+                                    <hr>
+                                    <!-- Delete button -->
+                                    <form method="post" asp-action="remove" asp-controller="Cart">
+                                        <input type="hidden" name="productId" value="@item.Product.ProductId" />
+                                        <button type="submit" class="btn btn-danger">Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Cart Summary</h5>
+                        <hr>
+                        <p>Total Cart Value: $@Model.Sum(item => item.Product.Price * item.Quantity)</p>
+                        <a href="/checkout" class="btn btn-primary btn-block">Checkout</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>

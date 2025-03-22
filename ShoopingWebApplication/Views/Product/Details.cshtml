@@ -1,0 +1,27 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Product Detail";
+    Layout = "_Layout"; // Assign the layout file here
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" class="img-fluid rounded" alt="@Model.Name"> <!-- Product Image -->
+        </div>
+        <div class="col-md-6">
+            <h2>@Model.Name</h2> <!-- Product Name -->
+            <p class="lead">@Model.Description</p> <!-- Product Description -->
+            <p><strong>Price: $@Model.Price</strong></p> <!-- Product Price -->
+            <form method="post" asp-controller="AddToCart" asp-action="AddToCart">
+                <input type="hidden" name="productId" value="@Model.ProductId"> <!-- Product ID as a hidden field -->
+                <div class="mb-3">
+                    <label for="quantity" class="form-label">Quantity:</label>
+                    <input type="number" name="quantity" class="form-control" value="1" min="1"> <!-- Quantity Input -->
+                </div>
+                <button type="submit" class="btn btn-primary">Add to Cart</button> <!-- Submit button -->
+            </form>
+        </div>
+    </div>
+</div>

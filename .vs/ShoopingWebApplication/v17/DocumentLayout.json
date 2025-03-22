@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Downloads\\EComShow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\controllers\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\data\\migrations\\20250322004312_finalchecktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9C2AF0-F01E-4B8D-BC0B-8ED60999A727}|ShoopingWebApplication\\ShoopingWebApplication.csproj|\\\\mac\\home\\downloads\\ecomshow\\shoopingwebapplication\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\OrderController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFEAAAAANDMzM/MlwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\ProductController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACsAAADAZWZmZiYmwDYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:34:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Data\\DbInitializer.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:34:13.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Program.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Program.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\Checkout.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\Checkout.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\Checkout.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\Checkout.cs",
+              "ViewState": "AgIAAFMAAACAAgAAAIAwwGoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:56:02.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\Cart.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\Cart.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\Cart.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\Cart.cs",
+              "ViewState": "AgIAABwAAAAAmJmZmRkYwEUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:55:34.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddToCart.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\AddToCart.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Controllers\\AddToCart.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Controllers\\AddToCart.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Controllers\\AddToCart.cs",
+              "ViewState": "AgIAAC0AAADAmpmZmZktwEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:55:19.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250322004312_finalchecktest.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\Migrations\\20250322004312_finalchecktest.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Data\\Migrations\\20250322004312_finalchecktest.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Data\\Migrations\\20250322004312_finalchecktest.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Data\\Migrations\\20250322004312_finalchecktest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:43:13.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Views\\Product\\Index.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ShoopingWebApplication\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T00:31:24.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\Product.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Product.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\Product.cs",
+              "ViewState": "AQIAAAUAAADgZWZmZmYswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\appsettings.json",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\appsettings.json",
+              "RelativeToolTip": "ShoopingWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T00:31:34.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\Checkout.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Checkout.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\Checkout.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\OrderItem.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Views\\Product\\Products.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Products.cshtml",
+              "RelativeToolTip": "ShoopingWebApplication\\Views\\Product\\Products.cshtml",
+              "ViewState": "AQIAAAQAAABAzMzMzMwnwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T00:31:24.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\Order.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\Order.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Models\\CartItem.cs",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Models\\CartItem.cs",
+              "RelativeToolTip": "ShoopingWebApplication\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T00:31:24.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Views\\Product\\Details.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "ShoopingWebApplication\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAQAAADg/v////8gwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T00:31:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "ShoopingWebApplication\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T00:31:24.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShoopingWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "\\\\Mac\\Home\\Downloads\\EComShow\\ShoopingWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ShoopingWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAEAAADAZWZmZmYUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T00:31:24.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
